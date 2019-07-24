@@ -1,14 +1,1 @@
-# T10 - finiteLoop
-
-
-![Team Photo for finiteLoop](team/images/teamPhoto-min.jpg)
-
-###### *Figure 1: Team photo for finiteLoop*
-
-
-| name         | eID    | GitHub Username | Email                     |
-|--------------|--------|-----------------|---------------------------|
-| Saurav Bhuju | sbhuju | sbhuju          | sbhuju@rams.colostate.edu |
-| Jack Fitzgerald | jhfitzg | FackJitzgerald | jhfitzg@rams.colostate.edu |
-| Jonathan Perea | jtperea | jtperea | jtperea@rams.colostate.edu |
-| Patrick Keleher| pkeleher| patrickkeleher| pkeleher@rams.colostate.edu|
+  This was a semester long project I worked on during the Spring 2019 semester with 3 others. Please refer to the getting started file to install the necessary files to run the server. This project will only run on a Mac or Linux system. 
