@@ -9,8 +9,6 @@ import java.util.Map;
 /** Determines the distance between geographic coordinates.
  */
 public class GreatCircleDistance {
-    /** code below from https://rosettacode.org/wiki/Haversine_formula#Java and modified for project as needed
-     * */
 
     public Long calculateGreatCircleDistance(Map origin, Map destination, Double earthRadius) {
 
